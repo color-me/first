@@ -1,5 +1,5 @@
 {
-  "squadName" : "Super hero squad",
+  "squadName" : "骚洪",
   "homeTown" : "Metro City",
   "formed" : 2016,
   "secretBase" : "Super tower",
