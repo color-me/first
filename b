@@ -1,7 +1,5 @@
 {
   "名称" : "主角",
-  "家乡" : "south park",
-  "始于" : 1998,
   "秘密基地" : "south park school",
   "active" : true,
   "members" : [
