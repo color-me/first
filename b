@@ -1,6 +1,4 @@
 {
-  "名称" : "主角",
-  "秘密基地" : "south park school",
   "active" : true,
   "members" : [
     {
@@ -24,7 +22,7 @@
       ]
     },
     {
-      "姓名" : "Eric Theodore Cartman",
+      "姓名" : "Eric Cartman",
       "年龄" : 10,
       "性别" : "男",
       "特性" : [
